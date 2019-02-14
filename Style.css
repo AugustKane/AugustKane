@@ -1,0 +1,60 @@
+
+h2{
+    font-size:250%
+}
+a:visited{
+    color:black
+}
+a{
+    color:black
+}
+
+
+body .title {
+    background-color:#F4411D;
+    border-radius:3px;padding:3px;
+    margin-bottom:2px;
+    display:flex;
+    flex-direction:column;
+}
+
+body .structure {
+    display:flex; 
+    flex-direction:row; 
+    justify-content:space-between; 
+    align-items:flex-start;
+}
+
+
+body .center_column{
+    display:flex; 
+    flex-direction:column;
+    align-items:center;
+}
+
+body .opener {
+    font-size:350%;
+}
+
+body .column {
+    display:flex; 
+    flex-direction:column;
+}
+
+body .flex_end {
+    display:flex;
+    justify-content:flex-end;
+}
+
+body .about_me {
+    padding:20px; 
+    background-color:#A09FA0; 
+    border-radius:3px; 
+    display:flex;
+    flex-direction:row; 
+    justify-content:space-around;
+}
+
+body .about_me_text {
+    padding-right:6px;
+}
